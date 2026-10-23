@@ -24,4 +24,4 @@ Second-year student in the Application Design & Development Bachelor. I work on 
 
 ### Find me
 
-[Portfolio](https://tom-ostermann-liard.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tom-ostermann) · [Email](mailto:tom_ostermann@outlook.com)
+[Portfolio](https://tom-ostermann.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tom-ostermann) · [Email](mailto:tom_ostermann@outlook.com)
